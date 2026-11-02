@@ -1,0 +1,18 @@
+{
+  "model": "RandomForest",
+  "params": {
+    "n_estimators": 255,
+    "max_depth": 7,
+    "min_samples_leaf": 25,
+    "max_features": 0.12200042998071398
+  },
+  "threshold": 0.5818462467582683,
+  "cv_recall": 0.7143812709030101,
+  "cv_precision": 0.572347266881029,
+  "cv_f1": 0.635525141326986,
+  "supuestos": {
+    "costo_promo": 50,
+    "tasa_exito": 0.3,
+    "meses_retenidos": 12
+  }
+}
