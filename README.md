@@ -4,7 +4,7 @@
 
 Solución de Machine Learning para que el equipo comercial de un **operador regional de internet y cable** sepa **a quién contactar, a cuántos, por qué está en riesgo cada cliente y qué ofrecerle**, a partir del dataset [Telco Customer Churn (IBM)](https://www.kaggle.com/datasets/blastchar/telco-customer-churn).
 
-🔗 **App desplegada:** _pegar aquí el enlace de Streamlit Community Cloud_
+🔗 **App desplegada:** [CLIENTURN](https://clienturn.streamlit.app/)
 
 ## Resultados principales (test: 1.409 clientes nunca vistos)
 
